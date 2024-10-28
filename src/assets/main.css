@@ -1,0 +1,116 @@
+/* Ajustes para el Header */
+.header {
+  background-color: #a8e3df;
+  padding: 10px 20px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+
+.logo {
+  height: 100px;
+  margin-top: 50px;
+}
+.profile {
+  height: 40px;
+  border-radius: 50%;
+}
+
+
+.toolbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  padding: 10px 0;
+}
+
+.toolbar-link {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.toolbar-link:hover {
+  color: blue;
+}
+
+.language-switcher {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 45px;
+  right: 0;
+  background-color: white;
+  border-radius: 4px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 5px;
+  z-index: 100;
+}
+
+.language-option {
+  margin: 5px 0;
+  width: 100px;
+  text-align: center;
+  color: #333;
+  transition: background-color 0.3s ease;
+}
+
+.language-option:hover {
+  background-color: #dcdcdc;
+}
+
+.main-image {
+  position: relative;
+  text-align: center;
+}
+
+.background-image {
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 40%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  font-size: 14px;
+}
+
