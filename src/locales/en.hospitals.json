@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Santa María Clinic",
+    "description": "Comprehensive medical care",
+    "location": "Lima, Peru",
+    "rating": 5,
+    "image": "hospital1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "National Hospital Edgardo Rebagliati",
+    "description": "National reference hospital",
+    "location": "Lima, Peru",
+    "rating": 4,
+    "image": "hospital2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "San Pablo Clinic",
+    "description": "Specialists in various fields",
+    "location": "Lima, Peru",
+    "rating": 4,
+    "image": "hospital3.jpg"
+  }
+]

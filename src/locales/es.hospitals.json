@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Clínica Santa María",
+    "description": "Atención médica integral",
+    "location": "Lima, Perú",
+    "rating": 5,
+    "image": "hospital1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hospital Nacional Edgardo Rebagliati",
+    "description": "Hospital de referencia nacional",
+    "location": "Lima, Perú",
+    "rating": 4,
+    "image": "hospital2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clínica San Pablo",
+    "description": "Especialistas en diversas áreas",
+    "location": "Lima, Perú",
+    "rating": 4,
+    "image": "hospital3.jpg"
+  }
+]
+

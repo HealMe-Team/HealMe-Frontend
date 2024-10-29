@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Aspirina",
+    "description": "Medicamento para el dolor y fiebre",
+    "price": "$10.00",
+    "rating": 4,
+    "image": "product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ibuprofeno",
+    "description": "Antiinflamatorio y analgésico",
+    "price": "$8.00",
+    "rating": 5,
+    "image": "product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Paracetamol",
+    "description": "Medicamento para la fiebre y el dolor",
+    "price": "$9.00",
+    "rating": 3,
+    "image": "product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vitamina C",
+    "description": "Suplemento para el sistema inmunológico",
+    "price": "$7.00",
+    "rating": 4,
+    "image": "product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Termómetro digital",
+    "description": "Medición rápida de temperatura",
+    "price": "$15.00",
+    "rating": 5,
+    "image": "product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tiritas",
+    "description": "Para cortes y rasguños",
+    "price": "$5.00",
+    "rating": 4,
+    "image": "product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jeringas desechables",
+    "description": "Uso único para inyecciones",
+    "price": "$12.00",
+    "rating": 3,
+    "image": "product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Crema antibacterial",
+    "description": "Para el tratamiento de heridas",
+    "price": "$11.00",
+    "rating": 4,
+    "image": "product8.jpg"
+  }
+]

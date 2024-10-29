@@ -1,0 +1,11 @@
+{
+  "header": {
+    "welcome": "Bienvenido a Healme",
+    "home": "Inicio",
+    "services": "Servicios",
+    "contact": "Contacto"
+  },
+  "footer": {
+    "copyright": "© 2024 Healme. Todos los derechos reservados."
+  }
+}

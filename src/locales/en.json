@@ -1,0 +1,11 @@
+{
+  "header": {
+    "welcome": "Welcome to Healme",
+    "home": "Home",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "footer": {
+    "copyright": "© 2024 Healme. All rights reserved."
+  }
+}

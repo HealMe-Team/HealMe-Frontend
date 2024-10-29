@@ -1,0 +1,28 @@
+{
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Smith",
+      "description": "Cardiologist",
+      "rating": 5
+    }
+  ],
+  "hospitals": [
+    {
+      "id": 1,
+      "name": "General Hospital",
+      "description": "Multispecialty hospital",
+      "location": "New York",
+      "rating": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Aspirin",
+      "description": "Pain reliever",
+      "price": 10.99,
+      "rating": 5
+    }
+  ]
+}

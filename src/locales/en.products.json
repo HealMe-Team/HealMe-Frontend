@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Aspirin",
+    "description": "Medication for pain and fever",
+    "price": "$10.00",
+    "rating": 4,
+    "image": "product1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ibuprofen",
+    "description": "Anti-inflammatory and analgesic",
+    "price": "$8.00",
+    "rating": 5,
+    "image": "product2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Paracetamol",
+    "description": "Medication for fever and pain",
+    "price": "$9.00",
+    "rating": 3,
+    "image": "product3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Vitamin C",
+    "description": "Supplement for the immune system",
+    "price": "$7.00",
+    "rating": 4,
+    "image": "product4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Digital Thermometer",
+    "description": "Quick temperature measurement",
+    "price": "$15.00",
+    "rating": 5,
+    "image": "product5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Band-Aids",
+    "description": "For cuts and scrapes",
+    "price": "$5.00",
+    "rating": 4,
+    "image": "product6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Disposable Syringes",
+    "description": "Single-use for injections",
+    "price": "$12.00",
+    "rating": 3,
+    "image": "product7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Antibacterial Cream",
+    "description": "For wound treatment",
+    "price": "$11.00",
+    "rating": 4,
+    "image": "product8.jpg"
+  }
+]

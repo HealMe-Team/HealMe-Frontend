@@ -1,0 +1,10 @@
+[
+  { "id": 1,
+    "name": "Dr. Juan Pérez",
+    "description": "Specialist in Cardiology",
+    "rating": 4, "image": "doctor1.jpg"
+  },
+  { "id": 2, "name": "Dra. María García", "description": "Pediatrician", "rating": 5, "image": "doctor2.jpg" },
+  { "id": 3, "name": "Dr. Pedro Sánchez", "description": "Gynecologist", "rating": 3, "image": "doctor3.jpg" },
+  { "id": 4, "name": "Dra. Ana López", "description": "Dermatologist", "rating": 4, "image": "doctor4.jpg" }
+]
